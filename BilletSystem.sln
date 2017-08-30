@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilletSystem", "BilletSystem\BilletSystem.csproj", "{0212B86B-6694-4799-A25E-D8C5E3C3C225}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilletLib", "BilletLib\BilletLib.csproj", "{F31E0BCD-A96B-41C7-A6D1-A744B905AE18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilTests", "BilTests\BilTests.csproj", "{FEDFE2E1-D236-4A60-8312-0B397319058A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0212B86B-6694-4799-A25E-D8C5E3C3C225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0212B86B-6694-4799-A25E-D8C5E3C3C225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0212B86B-6694-4799-A25E-D8C5E3C3C225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31E0BCD-A96B-41C7-A6D1-A744B905AE18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31E0BCD-A96B-41C7-A6D1-A744B905AE18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31E0BCD-A96B-41C7-A6D1-A744B905AE18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31E0BCD-A96B-41C7-A6D1-A744B905AE18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDFE2E1-D236-4A60-8312-0B397319058A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDFE2E1-D236-4A60-8312-0B397319058A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDFE2E1-D236-4A60-8312-0B397319058A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDFE2E1-D236-4A60-8312-0B397319058A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
