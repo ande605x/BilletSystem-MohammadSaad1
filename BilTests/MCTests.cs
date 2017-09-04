@@ -32,7 +32,7 @@ namespace BilletLib.Tests
 
             MC MC = new MC();
             string Køretøj = MC.Køretøj();
-
+            
             //Action
 
             Assert.AreEqual(Køretøj, "MC");
