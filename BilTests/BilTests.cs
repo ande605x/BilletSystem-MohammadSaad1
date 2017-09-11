@@ -8,6 +8,10 @@ using System.Threading.Tasks;
 
 namespace BilletLib.Tests
 {
+
+    // 100% codecoverage - helt perfekt :-)
+
+
     [TestClass()]
     public class BilTests
     {

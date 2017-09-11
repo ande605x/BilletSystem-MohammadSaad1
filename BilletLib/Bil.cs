@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace BilletLib
 {
+     
+    // Der mangler en abstract klasse som Bil og MC skal arve fra
+    // Mangler en del ting (er ikke nået langt nok)
+
+
     public class Bil
     {
         public string Nummerplade;
